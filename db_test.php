@@ -3,7 +3,7 @@
 echo "<h2>Tester databasekobling...</h2>";
 
 // Fyll inn detaljene fra Dokploy-panelet
-$host = "mysql";         // vanlige Dokploy-installasjoner bruker "mysql"
+$host = "b-studentsql-1.usn.no";         // vanlige Dokploy-installasjoner bruker "mysql"
 $user = "108381";       // erstatt med ditt brukernavn (f.eks. "sondrej")
 $pass = "3e49108381";   // erstatt med passordet Dokploy viser
 $db   = "108381";       // ofte samme som brukernavn
