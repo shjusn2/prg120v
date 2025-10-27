@@ -4,9 +4,9 @@ echo "<h2>Tester databasekobling...</h2>";
 
 // Fyll inn detaljene fra Dokploy-panelet
 $host = "mysql";         // vanlige Dokploy-installasjoner bruker "mysql"
-$user = "dokploy";       // erstatt med ditt brukernavn (f.eks. "sondrej")
-$pass = "dittpassord";   // erstatt med passordet Dokploy viser
-$db   = "dokploy";       // ofte samme som brukernavn
+$user = "108381";       // erstatt med ditt brukernavn (f.eks. "sondrej")
+$pass = "3e49108381";   // erstatt med passordet Dokploy viser
+$db   = "108381";       // ofte samme som brukernavn
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
