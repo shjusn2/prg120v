@@ -4,7 +4,7 @@ echo "<h2>Oppretter tabeller...</h2>";
 
 $host = "b-studentsql-1.usn.no";
 $user = "108381";
-$pass = "DITT_PASSORD_HER";
+$pass = "3e49108381";
 $db   = "108381";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
